@@ -16,7 +16,7 @@
 title: Clear Abstraction
 email: mikael.brandt@clearabstraction.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The basis for creating any value is a clear abstraction. This true in all fields, but it's especially crystallized
+  The basis for creating any value is a clear abstraction. This is true in all fields, but it's especially crystallized
   in software development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://clearabstraction.com" # the base hostname & protocol for your site, e.g. http://example.com
