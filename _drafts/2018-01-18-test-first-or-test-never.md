@@ -2,7 +2,6 @@
 layout: post
 title:  "Test first, or test never"
 categories: testing tdd test-first
-published: false
 ---
 > If you don't write the tests before you write the corresponding production code, you might as well never write the tests at all.
 
